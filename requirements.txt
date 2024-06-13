@@ -1,0 +1,11 @@
+datasets>=2.6.1
+transformers @ git+https://github.com/mizoru/transformers@main
+librosa
+evaluate>=0.3.0
+jiwer
+bitsandbytes
+accelerate
+peft @ git+https://github.com/huggingface/peft.git@main
+dagshub
+boto3
+wandb
